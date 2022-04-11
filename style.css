@@ -1,0 +1,91 @@
+ul{
+    margin-left: 150px;
+}
+
+#img-gatos{
+    width: 400px;
+    height: 250px;
+}
+
+#img-perros{
+    width: 400px;
+    height: 250px;
+}
+
+#href-gatos{
+    margin-left: 100px;
+    text-decoration: none; 
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+
+}
+
+#href-perros{
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+}
+
+#cachulo{
+    width: 400px;
+    height: 250px;
+}
+
+#niña{
+    width: 400px;
+    height: 250px;
+}
+
+#flaca{
+    width: 400px;
+    height: 250px;
+}
+
+#img-infocachulo{
+    width: 550px;
+    height: 350px;
+    margin-top: 80px;
+    margin-right: auto;
+}
+
+#infocachulo{
+    float: right;
+    margin-right: 150px;
+    margin-top: -300px;
+    font-size: 60px;
+}
+
+#header-cachulo{
+    float: right;
+    font-size: 20px;
+}
+
+#boton-inicio{
+    border-radius: 5px;
+    background-color: rgb(95, 77, 196);
+    color: white;
+    cursor: pointer;
+    transition: background-color 3s;
+}
+
+
+#boton-volverperros{
+    border-radius: 5px;
+    background-color: rgb(95, 77, 196);
+    color: white;
+    cursor: pointer;
+    transition: background-color 3s;
+}
+
+#boton-inicio:hover{
+    opacity: 0.5;
+}
+
+#boton-volverperros:hover{
+    opacity: 0.5;
+}
+
+
